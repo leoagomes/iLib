@@ -5,6 +5,8 @@ iLib
 iLib is released under the GNU General Public License (GPL). Check LICENSE for more.</p>
 If you like this project and know enough of C# to <b>contribute, please</b> do it!
 
+<p>The current version of iLib only supports iOS 5 and 6. Support for iOS 3 is under development.</p>
+
 <h3>About: iLib</h3>
 <p>iLib's code is a little messy, is not as well documented as I wanted to and maybe does not follow the best practices in the .NET world. I'm sorry.<br/>
 
